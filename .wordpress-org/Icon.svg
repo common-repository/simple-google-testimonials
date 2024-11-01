@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <rect id="Rectangle" fill="#397AF2" x="0" y="0" width="128" height="128"></rect>
+            <text id="Simple-Google-Testim" font-family="Montserrat-Bold, Montserrat" font-size="27" font-weight="bold" letter-spacing="1.69363582" fill="#FFFFFF">
+                <tspan x="9" y="46.4921875">Simple</tspan>
+                <tspan x="9" y="79.4921875">Google</tspan>
+                <tspan x="9" y="112.492188" font-size="15" letter-spacing="0.940909088">Testimonials</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

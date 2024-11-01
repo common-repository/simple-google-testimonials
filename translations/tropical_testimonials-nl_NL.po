@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Google Testimonials\n"
+"POT-Creation-Date: 2017-01-10 15:45+0100\n"
+"PO-Revision-Date: 2017-01-10 15:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: testimonials.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: templates/testimonial-form.php:2
+msgid "en-EN"
+msgstr "nl-NL"
+
+#: templates/testimonial-form.php:3 templates/testimonial-form.php:18
+msgid "Please enter your testimonial"
+msgstr "Voer een review in"
+
+#: templates/testimonial-form.php:5
+msgid "Company"
+msgstr "Bedrijf"
+
+#: templates/testimonial-form.php:7
+msgid "Your name"
+msgstr "Uw naam"
+
+#: templates/testimonial-form.php:9
+msgid "Your position"
+msgstr "Uw functie"
+
+#: templates/testimonial-form.php:11
+msgid "Your rating"
+msgstr "Uw rating"
+
+#: templates/testimonial-form.php:17
+msgid "Your testimonial"
+msgstr "Uw review"
+
+#: templates/testimonial-form.php:19
+msgid "Add testimonial"
+msgstr "Voeg review toe"
+
+#: templates/testimonial-overview-item.php:2
+msgid "at"
+msgstr "bij"
+
+#: templates/testimonial-overview-item.php:3
+#, php-format
+msgid "Gives a score of %1$s out of %2$s"
+msgstr "Geeft een beoordeling van %1$s uit %2$s"
+
+#: templates/testimonial-submitted.php:3
+msgid "Enter your testimonial."
+msgstr "Voor uw review in."
+
+#: templates/testimonial-submitted.php:4
+msgid ""
+"Thank you for submitting your testimonial. It can take some time before it "
+"is visible."
+msgstr ""
+"Bedankt voor het invullen van uw review. Het kan even duren voordat deze "
+"zichtbaar is."
+
+#: testimonials.class.php:143
+msgid "All fields are required"
+msgstr "Alle velden zijn verplicht"
+
+#: testimonials.class.php:156
+#, php-format
+msgid "Testimonial of %s"
+msgstr "Beoordeling van %s"
+
+#: testimonials.class.php:279
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr "Beoordelingen"
+
+#: testimonials.class.php:280
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr "Beoordeling"
+
+#: testimonials.class.php:281 testimonials.class.php:282
+#: testimonials.class.php:283 testimonials.class.php:315
+msgid "Testimonials"
+msgstr "Beoordelingen"
+
+#: testimonials.class.php:284
+msgid "Testimonials Attributes"
+msgstr "Beoordeling Attributen"
+
+#: testimonials.class.php:285
+msgid "Parent testimonial:"
+msgstr "Hoofd beoordeling"
+
+#: testimonials.class.php:286
+msgid "All testimonials"
+msgstr "Alle Beoordelingen"
+
+#: testimonials.class.php:287
+msgid "Add New Testimonial"
+msgstr "Voeg nieuwe beoordeling toe"
+
+#: testimonials.class.php:288
+msgid "Add New"
+msgstr "Voeg toe"
+
+#: testimonials.class.php:289
+msgid "New testimonial"
+msgstr "Nieuwe beoordeling"
+
+#: testimonials.class.php:290
+msgid "Edit Testimonial"
+msgstr "Pas beoordeling aan"
+
+#: testimonials.class.php:291
+msgid "Update Testimonial"
+msgstr "Verander beoordeling"
+
+#: testimonials.class.php:292
+msgid "View Testimonial"
+msgstr "Bekijk beoordeling"
+
+#: testimonials.class.php:293
+msgid "View Testimonials"
+msgstr "Bekijk beoordelingen"
+
+#: testimonials.class.php:294
+msgid "Search Testimonials"
+msgstr "Doorzoek Beoordelingen"
+
+#: testimonials.class.php:295
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: testimonials.class.php:296
+msgid "Not found in Trash"
+msgstr "Niet gevonden in prullenbak"
+
+#: testimonials.class.php:297
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: testimonials.class.php:298
+msgid "Set featured image"
+msgstr "Uitgelichte afbeelding instellen"
+
+#: testimonials.class.php:299
+msgid "Remove featured image"
+msgstr "Verwijder uitgelichte afbeelding"
+
+#: testimonials.class.php:300
+msgid "Use as featured image"
+msgstr "Gebruik als uitgelichte afbeelding"
+
+#: testimonials.class.php:301
+msgid "Insert into testimonials"
+msgstr "Voeg in bij beoordeling"
+
+#: testimonials.class.php:302
+msgid "Uploaded to this testimonial"
+msgstr "Geüpload naar deze beoordeling"
+
+#: testimonials.class.php:303
+msgid "Testimonials list"
+msgstr "Lijst van beoordelingen"
+
+#: testimonials.class.php:304
+msgid "Testimonials list navigation"
+msgstr "Beoordelingen lijst nagivatie"
+
+#: testimonials.class.php:305
+msgid "Filter testimonials list"
+msgstr "Filter beoordelingen lijst"
+
+#: testimonials.class.php:314
+msgid "Testimonial"
+msgstr "Beoordeling"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Google Testimonials"
+msgstr "Simple Google Beoordelingen"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://tropicaljuice.nl/"
+msgstr "https://tropicaljuice.nl"
+
+#. Description of the plugin/theme
+msgid ""
+"Users can add testimonials on front-end of website. You can manage these as "
+"'regular' posts at the wp-admin."
+msgstr ""
+"Gebruikers kunnen via de front-end een beoordeling plaatsen. Je kunt deze "
+"beheren als 'gewone' berichten in de wp-admin"
+
+#. Author of the plugin/theme
+msgid "Tropical Juice"
+msgstr "Tropical Juice"
